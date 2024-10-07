@@ -17,4 +17,3 @@ class Calculator:
 
     def calculate(self) -> float:
         ...
- 
