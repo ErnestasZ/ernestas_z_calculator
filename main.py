@@ -12,7 +12,7 @@ class Calculator:
     def div(self) -> float:
         ...
 
-    def mul(self, sk) -> float:
+    def mul(self,sk) -> float:
         return self.number * sk
 
     def calculate(self) -> float:
