@@ -20,3 +20,4 @@ class Calculator:
 
 
 print('print 1')
+print('print 2')
